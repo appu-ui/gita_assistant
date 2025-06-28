@@ -92,8 +92,3 @@ client = qdrant_client.QdrantClient(
 - The assistant is designed to acknowledge when it doesn't have sufficient context to answer a question
 - Responses are grounded in the provided Bhagavad Gita text to ensure accuracy
 
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests! 
-
-Don't forget to check out [Qdrant GitHub](https://github.com/qdrant/qdrant) ⭐️  and the amazing blog on [Binary Quantization](https://qdrant.tech/articles/binary-quantization/)
